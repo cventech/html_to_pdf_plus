@@ -3,43 +3,43 @@
   "packages": [
     {
       "name": "characters",
-      "rootUri": "file:///Users/khizarrehman/.pub-cache/hosted/pub.dev/characters-1.3.0",
+      "rootUri": "file:///Users/julienbrown_1/.pub-cache/hosted/pub.dev/characters-1.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.4"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/khizarrehman/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///Users/julienbrown_1/.pub-cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/khizarrehman/Desktop/flutterSdk/flutter/packages/flutter",
+      "rootUri": "file:///Users/julienbrown_1/SDKs/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.7"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/khizarrehman/.pub-cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "rootUri": "file:///Users/julienbrown_1/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/khizarrehman/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "rootUri": "file:///Users/julienbrown_1/.pub-cache/hosted/pub.dev/meta-1.16.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/khizarrehman/Desktop/flutterSdk/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/julienbrown_1/SDKs/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.7"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/khizarrehman/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
+      "rootUri": "file:///Users/julienbrown_1/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -50,7 +50,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-08-28T19:09:54.997874Z",
+  "generated": "2025-07-01T18:07:54.220622Z",
   "generator": "pub",
-  "generatorVersion": "3.3.1"
+  "generatorVersion": "3.7.0",
+  "flutterRoot": "file:///Users/julienbrown_1/SDKs/flutter",
+  "flutterVersion": "3.29.0",
+  "pubCache": "file:///Users/julienbrown_1/.pub-cache"
 }

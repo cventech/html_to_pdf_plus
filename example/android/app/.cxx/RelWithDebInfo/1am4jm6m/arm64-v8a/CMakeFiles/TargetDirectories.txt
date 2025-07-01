@@ -1,0 +1,2 @@
+/Users/julienbrown_1/Repositories/html_to_pdf_plus/example/android/app/.cxx/RelWithDebInfo/1am4jm6m/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/julienbrown_1/Repositories/html_to_pdf_plus/example/android/app/.cxx/RelWithDebInfo/1am4jm6m/arm64-v8a/CMakeFiles/rebuild_cache.dir
